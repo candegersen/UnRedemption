@@ -18,7 +18,8 @@ static List<string> KnowTheBenefitsOfSoftware() {
     "Keeps you away from fakes",
     "Makes you a global citizen",
     "Protects your heritage",
-    "Keeps you grope free"
+    "Keeps you grope free",
+    "Keeps you clean from borderline histrionics maxims"
   };
 }
 
